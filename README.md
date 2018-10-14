@@ -1,3 +1,2 @@
-# Sliding-Image-Puzzle-
-# I had put important code files of sliding image puzzle project in this repository.
-# You can modify other files which created in android studio without any affect to the files here I attached.
+# Sliding Image Puzzle game
+I had put all the code files of sliding image puzzle project in this repository. This android game was developed using android studio.
